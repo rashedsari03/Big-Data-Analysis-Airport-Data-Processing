@@ -1,36 +1,43 @@
-Big Data Analysis: Airport Data Processing ✈️
-Project Overview
-This project performs Big Data analysis on an airport dataset containing one million records. The goal is to process and analyze large-scale aviation data efficiently, applying various data manipulation techniques.
+# Big Data Analysis: Airport Data Processing ✈️
 
-Features & Operations
-✅ Data Cleaning: Handling missing values, outlier detection, and formatting inconsistencies.
-✅ Data Transformation: Filtering, aggregating, and restructuring data for meaningful insights.
-✅ Statistical Analysis: Extracting key metrics related to flights, passengers, and delays.
-✅ Visualization: Generating insightful plots to represent trends in airport operations.
-✅ Performance Optimization: Applying efficient techniques to handle large datasets.
+## Project Overview
+This project performs **Big Data analysis** on an **airport dataset containing one million records**. The goal is to process and analyze large-scale aviation data efficiently, applying various data manipulation techniques.
 
-Technologies Used
-Python 🐍
+## Features & Operations
+✅ **Data Cleaning**: Handling missing values, outlier detection, and formatting inconsistencies.  
+✅ **Data Transformation**: Filtering, aggregating, and restructuring data for meaningful insights.  
+✅ **Statistical Analysis**: Extracting key metrics related to flights, passengers, and delays.  
+✅ **Visualization**: Generating insightful plots to represent trends in airport operations.  
+✅ **Performance Optimization**: Applying efficient techniques to handle large datasets.  
 
-Pandas for data manipulation
+## Technologies Used
+- **Python** 🐍
+- **Pandas** for data manipulation
+- **NumPy** for numerical computations
+- **Matplotlib & Seaborn** for visualization
+- **PySpark** *(if used for scalability)*
 
-NumPy for numerical computations
-
-Matplotlib & Seaborn for visualization
-
-PySpark (if used for scalability)
-
-How to Run
-Clone the repository:
-git clone [https://github.com/rashedsari03/Airport-BigData-Analysis.git](https://github.com/rashedsari03/Big-Data-Analysis-Airport-Data-Processing)
+## How to Run
+### Clone the repository:
+```bash
+git clone https://github.com/rashedsari03/Airport-BigData-Analysis.git
 cd Airport-BigData-Analysis
-Install dependencies:
-
+```
+### Install dependencies:
+```bash
 pip install -r requirements.txt
-Open and run the Jupyter Notebook:
-
+```
+### Open and run the Jupyter Notebook:
+```bash
 jupyter notebook Airport_Data_Processing.ipynb
-Results & Insights
-🔹 Identified peak traffic hours for flights and passenger movement.
-🔹 Analyzed common causes of flight delays and their frequency.
-🔹 Visualized trends to improve airport operational efficiency.
+```
+
+## Results & Insights
+🔹 Identified peak traffic hours for flights and passenger movement.  
+🔹 Analyzed common causes of flight delays and their frequency.  
+🔹 Visualized trends to improve airport operational efficiency.  
+
+---
+
+**Contributions are welcome!** Feel free to fork the repo, submit issues, or make pull requests. 😊
+
