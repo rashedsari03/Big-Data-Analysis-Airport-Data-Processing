@@ -22,7 +22,7 @@ PySpark (if used for scalability)
 
 How to Run
 Clone the repository:
-git clone https://github.com/rashedsari03/Airport-BigData-Analysis.git
+git clone [https://github.com/rashedsari03/Airport-BigData-Analysis.git](https://github.com/rashedsari03/Big-Data-Analysis-Airport-Data-Processing)
 cd Airport-BigData-Analysis
 Install dependencies:
 
